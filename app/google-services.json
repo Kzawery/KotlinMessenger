@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483791010514",
+    "firebase_url": "https://kmsg-441c0.firebaseio.com",
+    "project_id": "kmsg-441c0",
+    "storage_bucket": "kmsg-441c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483791010514:android:4ffa5e08500f8729e4cb0b",
+        "android_client_info": {
+          "package_name": "com.example.kmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483791010514-m9f4f260i4uv9crm9lrk3cghm2r4m0cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA66ceCC7-kgE8DizsXnt0Q_HQG0esXVms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483791010514-m9f4f260i4uv9crm9lrk3cghm2r4m0cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
